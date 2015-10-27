@@ -1,0 +1,8 @@
+### Questions for Discussion
+1. What is exploratory data analysis (EDA)?
+2. What is involved in EDA?
+3. What methods are used in EDA?
+4. How is EDA different than statistical inference?
+5. When is EDA good?
+6. What are some dangers in EDA?
+7. How do we use EDA as a consultant?
